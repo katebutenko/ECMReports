@@ -1,0 +1,5 @@
+D:\DeloitteECM\Sitecore.Support.SummaryReports\Sitecore.Support.SummaryReports\obj\Debug\Sitecore.Support.ECMReports.csprojResolveAssemblyReference.cache
+D:\DeloitteECM\Website\bin\Sitecore.Support.ECMReports.dll
+D:\DeloitteECM\Website\bin\Sitecore.Support.ECMReports.pdb
+D:\DeloitteECM\Sitecore.Support.SummaryReports\Sitecore.Support.SummaryReports\obj\Debug\Sitecore.Support.ECMReports.dll
+D:\DeloitteECM\Sitecore.Support.SummaryReports\Sitecore.Support.SummaryReports\obj\Debug\Sitecore.Support.ECMReports.pdb
